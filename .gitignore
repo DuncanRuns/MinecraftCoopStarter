@@ -116,3 +116,5 @@ Temporary Items
 
 ngrok.exe
 ngrokout.txt
+*.iml
+*.ipr
